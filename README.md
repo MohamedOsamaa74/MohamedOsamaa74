@@ -26,6 +26,7 @@
 
 ### Technologies:
 ![ASP .NET](https://img.shields.io/badge/ASP%20.NET-black?logo=dotnet)
+![Node.JS](https://img.shields.io/badge/-Node.JS-black?logo=node.js)
 ![React](https://img.shields.io/badge/-React-black?logo=react)
 ![Git](https://img.shields.io/badge/-Git-black?logo=git)
 
