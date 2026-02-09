@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Osama</h1>
 <h3 align="center">A Passionate Software Engineer</h3>
 
-- Bachelor's Degree in Computer Science from **South Valley university**.
+- Bachelor's Degree in Computer Science.
 
 - Reach me out using my E-mail: **moa.mohamedosama@gmail.com**
 
