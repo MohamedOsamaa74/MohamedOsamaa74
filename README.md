@@ -31,12 +31,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MohamedOsamaa74&show_icons=true&locale=en&theme=dark" alt="MohamedOsamaa74" /><br>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=MohamedOsamaa74&show_icons=true&locale=en&theme=dark" alt="MohamedOsamaa74" /><br> -->
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedOsamaa74&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" /><br>
 
 <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=MohamedOsamaa74&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10" alt="MohamedOsamaa74 top langs"/><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedOsamaa74&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" /><br>
- 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedOsamaa74&show_icons=true&locale=en&layout=compact&theme=dark" alt="MohamedOsamaa74" />
 
 </div>
