@@ -16,9 +16,8 @@
 ### Languages:
 
 ![C#](https://img.shields.io/badge/C%23-black)
-![Java](https://img.shields.io/badge/-Java-black?logo=Java)
-![C++](https://img.shields.io/badge/-C++-black?logo=C)
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python)
+![C++](https://img.shields.io/badge/-C++-black?logo=C)
 ![SQL](https://img.shields.io/badge/-SQL-black?logo=MySQL)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=JavaScript)
 ![HTML](https://img.shields.io/badge/HTML-black?logo=html5)
